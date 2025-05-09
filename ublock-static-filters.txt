@@ -9,6 +9,7 @@ github.com##.mt-0.octicon-copilot.octicon
 github.com##.CopilotActionsChatButton-module__expanded--XgruB.CopilotActionsChatButton-module__copilotActionsChatButton--Hb7TL.prc-Button-ButtonBase-c50BI
 github.com##.AppHeader-buttonLeft.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
 github.com##.AppHeader-buttonRight.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
+github.com##.pr-review-tools.flex-shrink-0.flex-grow-0 > div > .loaded > div
 docs.google.com##.appsElementsSidekickEntryPointMorphSpark.appsElementsSidekickEntryPointMorphContainer
 docs.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__touch
 docs.google.com##.appsElementsSidekickEntryPointButton.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button--with-tooltip.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button
