@@ -1,6 +1,6 @@
 ## Why?
 
-Tired of seeing `Copilot` buttons everywhere on GitHub? Fed up with the Gemini options on all Google product? (don't you want to summarise a folder?)
+Tired of seeing `Copilot` buttons everywhere on GitHub? Fed up with the `Gemini` options on all Google product? _(don't you want to summarise a folder?)_
 
 ## How?
 
