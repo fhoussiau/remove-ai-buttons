@@ -1,0 +1,22 @@
+## Why?
+
+Tired of seeing `Copilot` buttons everywhere on GitHub? Fed up with the Gemini options on all Google product? (don't you want to summarise a folder?)
+
+## How?
+
+- Install [UBlock Origin](https://ublockorigin.com/) on your browser.
+- Open it's dashboard (gear icon in the pop-up).
+- In the "My filters" tab, import the content of [ublock-static-filters.txt](./ublock-static-filters.txt).
+
+## Where?
+
+- Gmail (Gemini)
+- Google Drive (Gemini)
+- Google Docs (Gemini)
+- Github (Copilot)
+
+## Disclaimers
+
+This list is hand-curated by me, for websites that I use. It is not exhaustive, even on these websites, and it's possible that genuine (non-AI) features might be made unavailable. Feel free to make a pull request to add more.
+
+Also, all of these blocks are susceptible to fail at any point -- I'll try to update them relatively frequently.

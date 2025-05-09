@@ -1,0 +1,16 @@
+mail.google.com##.e5IPTd.Zmxtcf
+drive.google.com##.gkxM7c.KuPsyb
+drive.google.com##.zaLwQc.MxSLJe
+drive.google.com##.a-OkO9ve-Qs0SX.a-OkO9ve-gAsIFc.Hb-ja-hc
+drive.google.com##.Csc9C.KuPsyb
+drive.google.com##.v0fVcd
+github.com##.biWYdz.Box-sc-g0xbh4-0
+github.com##.mt-0.octicon-copilot.octicon
+github.com##.CopilotActionsChatButton-module__expanded--XgruB.CopilotActionsChatButton-module__copilotActionsChatButton--Hb7TL.prc-Button-ButtonBase-c50BI
+github.com##.AppHeader-buttonLeft.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
+github.com##.AppHeader-buttonRight.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
+docs.google.com##.appsElementsSidekickEntryPointMorphSpark.appsElementsSidekickEntryPointMorphContainer
+docs.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__touch
+docs.google.com##.appsElementsSidekickEntryPointButton.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button--with-tooltip.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button
+docs.google.com##.appsElementsSidekickEntryPointRoot
+docs.google.com##.first-visible-button.instant-button.goog-control
