@@ -15,3 +15,6 @@ docs.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__to
 docs.google.com##.appsElementsSidekickEntryPointButton.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button--with-tooltip.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button
 docs.google.com##.appsElementsSidekickEntryPointRoot
 docs.google.com##.first-visible-button.instant-button.goog-control
+docs.google.com##.docs-image-generation-example-gallery-thumb-container
+docs.google.com###docs-image-generation-example-gallery > .genAiImageSidebarFooterDisclaimer
+docs.google.com##.genAiImageSidebarInputComponent
