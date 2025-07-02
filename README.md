@@ -13,6 +13,7 @@ Tired of seeing `Copilot` buttons everywhere on GitHub? Fed up with the `Gemini`
 - Gmail (Gemini)
 - Google Drive (Gemini)
 - Google Docs (Gemini)
+- Google Meet (Gemini)
 - Github (Copilot)
 
 ## Disclaimers
