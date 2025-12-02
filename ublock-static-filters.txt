@@ -6,6 +6,7 @@ drive.google.com##.a-OkO9ve-Qs0SX.a-OkO9ve-gAsIFc.Hb-ja-hc
 drive.google.com##.Csc9C.KuPsyb
 drive.google.com##.v0fVcd
 drive.google.com##.j9qYOd.KuPsyb
+drive.google.com##.SMHH7.iQnZTe.a-r-d.a-c-d.h-R-d.h-sb-Ic
 github.com##.biWYdz.Box-sc-g0xbh4-0
 github.com##.mt-0.octicon-copilot.octicon
 github.com##.CopilotActionsChatButton-module__expanded--XgruB.CopilotActionsChatButton-module__copilotActionsChatButton--Hb7TL.prc-Button-ButtonBase-c50BI
@@ -25,8 +26,18 @@ docs.google.com##.inlineFabBubbleContainer-body.docs-bubble-material-body
 docs.google.com##.docsSidekickSideSheetRoot.appsElementsSidekickRoot
 docs.google.com##.FormulaBarContainerGeminiSummarizeButton
 docs.google.com##.waffle-griddy-suggestions-bubble-expand.waffle-griddy-blue-ui.waffle-griddy-suggestions-bubble
+docs.google.com##.suggestionNudgeViewContainer
 meet.google.com##.wX4xVc-Bz112c-RLmnJb
 meet.google.com##.xL0oje.zItlrb
 meet.google.com##.RTBkae.pt8HRc
 meet.google.com##.kM7Sgc.EqYX9d.UhHv8.UywwFc-kSE8rc-FoKg4d-sLO9V-YoZ4jf.UywwFc-StrnGf-YYd4I-VtOx3e.UywwFc-LgbsSe-OWXEXe-dgl2Hf.UywwFc-LgbsSe-OWXEXe-Bz112c-M1Soyc.UywwFc-LgbsSe
 meet.google.com##.VfzgDd.KDbE6c
+mail.google.com##.e5Qt6b.WWUXZd.Q3y3df.DjVd6c
+mail.google.com##.DC5CAd
+drive.google.com##.aXe95b
+drive.google.com##.sXJt7e
+drive.google.com##.j8ge4e
+scholar.google.com###gs_hp_ap
+docs.google.com##.appsElementsGenerativeAiNudgeButtonNudgeActionContainer.appsSketchyGenerativeaiNudgesCanvasNudgeButtonButtonNudge
+docs.google.com###bcjw9c\:vl > .goog-toolbar-button-outer-box.goog-inline-block > .goog-toolbar-button-inner-box.goog-inline-block
+
