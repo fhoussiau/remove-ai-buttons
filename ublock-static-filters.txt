@@ -40,4 +40,6 @@ drive.google.com##.j8ge4e
 scholar.google.com###gs_hp_ap
 docs.google.com##.appsElementsGenerativeAiNudgeButtonNudgeActionContainer.appsSketchyGenerativeaiNudgesCanvasNudgeButtonButtonNudge
 docs.google.com###bcjw9c\:vl > .goog-toolbar-button-outer-box.goog-inline-block > .goog-toolbar-button-inner-box.goog-inline-block
-
+docs.google.com##.appsSketchyContentLibraryRail-disabled.goog-inline-block.appsSketchyContentLibraryRail.appsSketchyContentLibraryRailToolbarButtonWithColorIcon
+github.com##.DevelopmentSection-module__developmentSectionContainer--bRXJq
+www.youtube.com##.ytd-watch-flexy.style-scope > .ytd-expandable-metadata-renderer.style-scope
